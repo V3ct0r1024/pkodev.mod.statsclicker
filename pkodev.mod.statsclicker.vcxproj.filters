@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="structure.h">
+      <Filter>Mod loader</Filter>
+    </ClInclude>
+    <ClInclude Include="hook.h">
+      <Filter>Mod loader</Filter>
+    </ClInclude>
+    <ClInclude Include="pointer.h">
+      <Filter>Mod loader</Filter>
+    </ClInclude>
+    <ClInclude Include="address.h">
+      <Filter>Mod loader</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Mod loader">
+      <UniqueIdentifier>{3e86e960-2a49-41e9-a367-6c4e00e7b13b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
