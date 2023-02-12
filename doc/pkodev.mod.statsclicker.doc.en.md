@@ -8,7 +8,7 @@ Modification created based on the topic [**[Исходники] Прокачка
 
 ## Information about the modification
 
--   **Name:**  pkodev.mod.statsclicker ;
+-   **Name:**  pkodev.mod.statsclicker;
 -   **Version:**  1.0;
 -   **Author:**  [V3ct0r](https://github.com/V3ct0r1024);
 -   **Type:** for the game client (Game.exe);
